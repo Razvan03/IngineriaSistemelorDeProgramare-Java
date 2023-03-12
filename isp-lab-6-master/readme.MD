@@ -26,7 +26,3 @@ Given the UML class diagram above, implement the corresponding Java program.
 
 **Note 2: You can add any extra methods if required.**
 
-
-## Exercise 4
-
-Create a new version of ATM exercise from Laboratory 5 and use ArrayList instead of simple arrays[] for storing accounts in Bank class.
