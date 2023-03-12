@@ -18,12 +18,5 @@ Implement a safe home access Java application based on the diagram above. Consid
 Test all operations in _main_ method from _SafeHome_ class.
 Make sure all tests pass.
 
-## Exercise 2 - Use case diagram
-
-For Safe Home Access application create _UML use case diagram_. 
-
-## Exercise 3 - Sequence diagram
-
-For Safe Home Access application create _UML sequence diagram_ describing interaction between classes\objects.  
 
 
