@@ -50,11 +50,6 @@ Note 3 - For storing cars on disk check utility classes given as example in 'fil
 3. Minimal unit-tests should be provided to demonstrate the correct behaviour of the system.
 
 
-![Exercise 2 image](docs/SequenceDiagramParkingLot.jpg)
-
-## Exercise 2 
-
-![Exercise 2 image](docs/classdiagram.png)
 
 
 
