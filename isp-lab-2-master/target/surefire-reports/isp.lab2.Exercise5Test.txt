@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: isp.lab2.Exercise5Test
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.038 sec <<< FAILURE! - in isp.lab2.Exercise5Test
-testGetSortedNumbers(isp.lab2.Exercise5Test)  Time elapsed: 0.006 sec  <<< ERROR!
-java.lang.ArrayIndexOutOfBoundsException: Index 20 out of bounds for length 20
-	at isp.lab2.Exercise5Test.testGetSortedNumbers(Exercise5Test.java:26)
-
