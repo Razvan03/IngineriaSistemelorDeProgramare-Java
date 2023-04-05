@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: isp.lab4.exercise1.TemperatureSensorTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.033 sec <<< FAILURE! - in isp.lab4.exercise1.TemperatureSensorTest
-testSubstract(isp.lab4.exercise1.TemperatureSensorTest)  Time elapsed: 0.004 sec  <<< FAILURE!
-org.junit.ComparisonFailure: Should return the location expected:<Cluj[j]> but was:<Cluj[]>
-	at org.junit.Assert.assertEquals(Assert.java:115)
-	at isp.lab4.exercise1.TemperatureSensorTest.testSubstract(TemperatureSensorTest.java:19)
-
